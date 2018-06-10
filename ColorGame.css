@@ -1,0 +1,46 @@
+
+body {
+	margin:auto;
+	background-color: #232323;
+	color: white;
+
+}
+.square
+{
+	width: 30%;
+	padding-bottom: 30%;
+	background-color: purple;
+	float: left;
+	margin:1.66%;
+	border-radius: 25px;
+
+}
+span {
+	color: black;
+}
+
+.container {
+	margin:0 auto;
+	max-width: 600px;
+}
+
+.header
+{
+	background-color:rgb(72,110,173)
+}
+
+h1 {
+	height: 30%;
+}
+
+.stripe
+{
+	height: 30px;
+	background-color: white;
+	text-align: center;
+}
+
+.selected {
+	background-color: blue;
+	
+}
